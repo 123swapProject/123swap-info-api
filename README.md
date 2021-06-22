@@ -1,15 +1,15 @@
-# PancakeSwap API
+# 123swap API
 
-The PancakeSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface PancakeSwap liquidity
+The 123swap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface 123swap liquidity
 and volume information. All information is fetched from the underlying subgraphs.
 
 ## v1 Documentation
 
-The documentation of the endpoints, for PancakeSwap v1, can be found [here](v1-documentation.md).
+The documentation of the endpoints, for 123swap v1, can be found [here](v1-documentation.md).
 
 ## v2 Documentation
 
-The documentation of the endpoints, for PancakeSwap v2, can be found [here](v2-documentation.md).
+The documentation of the endpoints, for 123swap v2, can be found [here](v2-documentation.md).
 
 ## Development
 

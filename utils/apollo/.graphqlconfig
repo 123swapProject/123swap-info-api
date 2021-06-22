@@ -1,10 +1,10 @@
 {
-  "name": "PancakeSwap Exchange LITE",
+  "name": "123swap Exchange LITE",
   "schemaPath": "schema.graphql",
   "extensions": {
     "endpoints": {
-      "PancakeSwap Exchange LITE": {
-        "url": "https://api.bscgraph.org/subgraphs/name/pancakeswap/exchange-lite",
+      "123swap Exchange LITE": {
+        "url": "https://api.bscgraph.org/subgraphs/name/123swap/exchange-lite",
         "headers": {
           "user-agent": "JS GraphQL"
         },
